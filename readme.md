@@ -1,5 +1,6 @@
 # Api Wilayah Seluruh Indonesia
-API Wilayah Seluruh Indonesia dibuat menggunakan Bahasa Pemrograman golang versi 1.0.0. Struktur kode pada projek ini saya kelompokan masing masing sesuai dengan fungsinya masing masing, mulai dari models, controller dan sebagainya. Saya telah membuat versi online yang telah saya unggah pada heroku, silahkan jika teman teman ingin mencoba
+API Wilayah Seluruh Indonesia dibuat menggunakan Bahasa Pemrograman golang versi 1.0.0. Struktur kode pada projek ini saya kelompokan masing masing sesuai dengan fungsinya masing masing, mulai dari models, controller dan sebagainya. Saya telah membuat versi online yang telah saya unggah pada heroku, silahkan jika teman teman ingin mencoba disini
+https://wilayahindonesia.herokuapp.com/
 
 # Download
 Silahkan unduh API collection ini melalui link postman berikut ini
